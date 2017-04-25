@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    tools:context="vn.edu.eiu.androidprochatapp.SignUpActivity">
+    tools:context="vn.edu.eiu.androidchatapp.activity_sign_up"
+    android:orientation="vertical">
 
 
     <LinearLayout
@@ -70,5 +70,4 @@
             android:layout_height="wrap_content"
             style="@style/Widget.AppCompat.Button.Borderless"/>
     </LinearLayout>
-
 </LinearLayout>
